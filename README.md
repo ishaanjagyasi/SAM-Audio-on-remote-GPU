@@ -2,7 +2,7 @@
 
 This setup runs Meta/Facebook SAM Audio Large for text conditioned source separation on any remote GPU machine (cloud or on‑prem). The working script uses fp16 and chunked processing to avoid CUDA out of memory.
 
-## What you get
+## Working
 
 Given an input audio file and a text prompt (example: "female vocals"), the script produces two files.
 
