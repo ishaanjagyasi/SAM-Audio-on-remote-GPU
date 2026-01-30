@@ -1,4 +1,4 @@
-# SAM Audio Source Separation on a Remote GPU (Any Provider)
+# SAM Audio Source Separation on a Remote GPU 
 
 This setup runs Meta/Facebook SAM Audio Large for text conditioned source separation on any remote GPU machine (cloud or on‑prem). The working script uses fp16 and chunked processing to avoid CUDA out of memory.
 
