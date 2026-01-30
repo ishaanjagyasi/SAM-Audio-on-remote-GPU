@@ -1,0 +1,6 @@
+# Input and Output folders
+Input/
+Output/
+
+# macOS system files
+.DS_Store
